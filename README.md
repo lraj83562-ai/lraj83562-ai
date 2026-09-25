@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=200&section=header&text=Tanmay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 
 </div>
 
@@ -15,11 +15,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/India-312E81?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=rounak7781-arch&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=lraj83562-ai&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 </p>
 <p align="center">
   <a href="https://github.com/lraj83562-ai">
-    <img src="https://img.shields.io/badge/GitHub-rounak7781--arch-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-lraj83562-ai-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/
 lucky-raj-b306823a1
